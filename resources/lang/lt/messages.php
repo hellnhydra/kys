@@ -1,4 +1,16 @@
 return [
-    'welcome' => 'Sveiki atvykę!',
-    'conference_list' => 'Konferencijų sąrašas',
+    'welcome' => 'Sveiki atvyke i musu 5 centu konferencija!',
+    'conference_list' => 'Konferenciju sarasas',
+    'edit' => 'Redaguoti',
+    'delete' => 'Ištrinti',
+    'date' => 'Data',
+    'actions' => 'Veiksmai',
+    'manage_users' => 'Tvarkyti vartotojus',
+    'manage_conferences' => 'Tvarkyti konferencijas',
+    'select_what_you_want_to_manage' => 'Pasirinkite, ką norite tvarkyti',
+    'admin_dashboard' => 'Administratorius - Valdymo skydelis',
+    'administrator' => 'Administratorius',
+    'employee' => 'Darbuotojas',
+    'client' => 'Klientas',
+    'view_register' => 'Peržiūrėti registraciją',
 ];
