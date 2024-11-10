@@ -82,7 +82,7 @@ table tr:nth-child(even) {
 }
 
 button, .btn {
-    background-color: #28a745; 
+    background-color: #f700ff; 
     color: white;
     padding: 10px 20px;
     border: none;
