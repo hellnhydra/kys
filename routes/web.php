@@ -8,7 +8,7 @@ use App\Http\Controllers\Admin\UserController;
 use App\Http\Controllers\ConferencesController;
 
 
-
+//test
 
 
 Route::get('/', function () {
